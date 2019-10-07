@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">lab4_Sneha</string>
+    <string name="score1">SCORE 1</string>
+    <string name="button1positive">+</string>
+    <string name="button1negative">-</string>
+    <string name="button2positive">+</string>
+    <string name="button2negative">-</string>
+
+</resources>
